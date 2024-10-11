@@ -1,10 +1,6 @@
 <h1>🗂️ Project Management App</h1>
 
-<p>
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="Project Management App">
 
-
-</p>
 
 <p>
     The <strong>Project Management App</strong> is a powerful tool designed to help teams manage projects and tasks effectively. Developed with a robust backend powered by <strong>JEE (Java Enterprise Edition)</strong> and a dynamic frontend built with <strong>React</strong>, this application enables seamless task assignment, project tracking, and progress management.
