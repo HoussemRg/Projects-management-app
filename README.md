@@ -1,7 +1,8 @@
 <h1>🗂️ Project Management App</h1>
 
 <p>
-    <img src="https://example.com/banner-image.png" alt="Project Management App"> <!-- Add your project banner or logo image here -->
+    <img src="https://cdn-icons-png.flaticon.com/512/3212/3212626.png" alt="Project Management App">
+
 </p>
 
 <p>
