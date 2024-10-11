@@ -1,7 +1,8 @@
 <h1>🗂️ Project Management App</h1>
 
 <p>
-    <img src="https://cdn-icons-png.flaticon.com/512/3212/3212626.png" alt="Project Management App">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="Project Management App">
+
 
 </p>
 
